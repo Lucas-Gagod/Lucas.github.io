@@ -1,0 +1,80 @@
+h1{
+    color:rgb(197, 197, 197);
+    border: 4px solid rgb(197, 197, 197);
+    padding-top: 10px;
+    padding-bottom: 77px;
+    padding-left: 450px;
+    padding-right: 10px;
+    margin-top: -141px;
+    margin-left: 135px;
+    margin-bottom: -4px;
+    margin-right: 10px;
+    font-family: 'Oxygen', sans-serif;
+}
+img{
+    border: 4px solid rgb(197, 197, 197);
+    margin-top: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+}
+body{
+    background-image: url("3879.jpg");
+}
+
+.datos {
+    float: left;
+    padding: 15px;
+    border: 3px solid rgb(197, 197, 197);
+  }
+div{
+    color: rgb(197, 197, 197);
+}
+ul{
+    margin-bottom: 300px;
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+h4{
+    border:4px solid rgb(197, 197, 197);
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-left: 420px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 0px;
+    font-family: 'Oxygen', sans-serif;
+}
+.Titulos{
+    border: 3px solid rgb(197, 197, 197);
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 420px;
+    margin-right: 10px;
+    font-family: 'Oxygen', sans-serif;
+
+}
+h2{
+  color:rgb(126, 15, 15);
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+p {
+    border:4px solid rgb(197, 197, 197);
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-left: 420px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 0px;
+    font-family: 'Oxygen', sans-serif; 
+}
